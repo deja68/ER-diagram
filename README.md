@@ -1,6 +1,7 @@
 # Prvi-domaci
 
-ER dijagram za Zeljeznicu
+ER dijagram za Zeljeznicu:
+
 Angažovani ste od strane uprave željeznice da napravite bazu njihovog poslovanja. Njihov zahtjev je da
 se u ovoj bazi vodi evidencija o vozovima, redovima vožnje, zaposlenima i prodatim kartama. Svaki
 zaposleni se jedinstveno identifikuje preko svog matičnog broja, a osim toga treba čuvati informaciju o
